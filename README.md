@@ -115,3 +115,45 @@ Portfolio:
 ---
 
 ⭐ Always learning. Always building.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abubakarsow&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakarsow&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abubakarsow&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:abubakarsow222@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abubakarsow">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+> *"Building software that solves real-world problems through innovation, automation, and intelligent systems."*
